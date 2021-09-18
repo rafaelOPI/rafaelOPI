@@ -2,7 +2,7 @@
 
 - 🌱 Estudando: HTML e Javascript
 - 📫 Contato: rafael.o.peres@hotmail.com
-- ⚡ Fun fact: muito fã da Motown Records e eu AMO O POP!OS
+- ⚡ Fun fact: muito fã da Motown Records e eu AMO O POP!_OS
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Markdown" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg">
