@@ -4,7 +4,7 @@
 - 📫 Contato: rafael.o.peres@hotmail.com
 - ⚡ Fun fact: muito fã da Motown Records/eu AMO O POP!_OS
 </div>
-Linguagens/Languages:
+Linguagens:
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Markdown" heigth="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg">
   <img align="center" alt="Rafa-Fortran" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg"> 
