@@ -1,6 +1,6 @@
 ### Oii, tudo bem? sou o Rafael OPI 👋
 
-- 🌱 Estudando: Arquitetura de Sistemas e HTML
+- 🌱 Estudando: HTML e Javascript
 - 📫 Contato: rafael.o.peres@hotmail.com
 - ⚡ Fun fact: muito fã da Motown Records / sou muito sociável, mas não uso redes sociais
 
@@ -12,3 +12,4 @@
   <img align="center" alt="Rafa-CSS" heigt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
 </div>
   
+  ##
