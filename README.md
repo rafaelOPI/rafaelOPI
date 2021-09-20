@@ -1,6 +1,6 @@
 ### Oii, tudo bem? sou eu... Rafael OPI 👋
 
-- 🌱 Estudando: HTML/CSS, Mardown e Javascript 
+- 🌱 Estudando: HTML/CSS, Markdown e Javascript 
 - 📫 Contato: rafael.o.peres@hotmail.com
 - ⚡ Fun fact: muito fã da Motown Records/eu AMO O POP!_OS
 </div>
@@ -23,6 +23,7 @@ IDE e OS:
   </div>
   
   ##
+uma da Motwon pra você↓
 
 https://user-images.githubusercontent.com/81370758/133950784-5d951a0d-cda5-4ed8-a7ec-fe6913ff336c.mov
 
