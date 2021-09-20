@@ -20,5 +20,9 @@ IDE e OS:
   <img align="center" alt"Rafa-Visual" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Rafa-Debian" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original-wordmark.svg">
   <img align="center" alt="Rafa-Windows" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
+  </div>
   
-  
+  ##
+
+https://user-images.githubusercontent.com/81370758/133950784-5d951a0d-cda5-4ed8-a7ec-fe6913ff336c.mov
+
