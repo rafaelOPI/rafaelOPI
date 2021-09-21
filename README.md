@@ -1,7 +1,8 @@
 ### Oii, tudo bem? sou eu... Rafael OPI 👋
 
 - 🌱 Estudando: HTML/CSS, Markdown e Javascript 
-- 📫 Contato: rafael.o.peres@hotmail.com
+- 📫 e-mail: rafael.o.peres@hotmail.com
+- 📩 Telegram: https://msng.link/o/?rafaelOPI=tg
 - ⚡ Fun fact: muito fã da Motown Records/eu AMO O POP!_OS
 </div>
 Linguagens:
