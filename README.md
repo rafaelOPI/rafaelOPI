@@ -3,7 +3,7 @@
 - 🌱 Estudando: HTML/CSS, Markdown e Javascript 
 - 📫 e-mail: rafael.o.peres@hotmail.com
 - 📩 Telegram: https://msng.link/o/?rafaelOPI=tg
-- ⚡ Fun fact: muito fã da Motown Records/eu AMO O POP!_OS
+- 🌟 Fun fact: eu AMO O POP!_OS e a Motown Records
 
 
  meu Curriculum: [RafaelOPI.pdf](https://github.com/rafaelOPI/rafaelOPI/files/7262321/RafaelOPI.pdf)
