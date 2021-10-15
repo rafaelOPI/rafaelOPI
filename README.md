@@ -27,8 +27,11 @@ IDE e OS:
  
  
   ##
-uma da Motwon pra você📩
+<div>  
+uma da Motwon pra você🎧
 
-https://user-images.githubusercontent.com/81370758/133950784-5d951a0d-cda5-4ed8-a7ec-fe6913ff336c.mov
+https://user-images.githubusercontent.com/81370758/137535565-5bc13475-1d8c-490c-9f57-59ac69387933.mov
+</div>
+
 
 
