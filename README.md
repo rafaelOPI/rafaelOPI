@@ -6,8 +6,7 @@
 - 🌟 Fun fact: eu AMO O POP!_OS e a Motown Records
 
 
- meu Curriculum: [RafaelOPI.pdf](https://github.com/rafaelOPI/rafaelOPI/files/7262321/RafaelOPI.pdf)
-</div>
+
 Linguagens:
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Fortran" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg"> 
