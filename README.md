@@ -1,6 +1,6 @@
 ### Oii, tudo bem? sou eu... Rafael OPI 👋
 
-- 🌱 Estudando: HTML/CSS, Markdown e Javascript 
+- 🌱 Estudando: HTML/CSS, Javascript, Node, React MongoDB e Markdown
 - 📫 e-mail: rafael.o.peres@hotmail.com
 - 📩 Telegram: https://msng.link/o/?rafaelOPI=tg
 - 🌟 Fun fact: eu AMO O POP!_OS e a Motown Records
