@@ -24,7 +24,9 @@ IDE e OS:
   <img align="center" alt="Rafa-popOS!" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Pop_OS-Logo-nobg.svg/1599px-Pop_OS-Logo-nobg.svg.png">
   <img align="center" alt="Rafa-Windows" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
   </div>
+  
   ##
+  
 <div>  
 uma da Motwon pra você🎧
 
