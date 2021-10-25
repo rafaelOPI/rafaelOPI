@@ -21,11 +21,9 @@ IDE e OS:
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Atom" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg">
   <img align="center" alt"Rafa-Visual" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Rafa-Debian" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original-wordmark.svg">
+  <img align="center" alt="Rafa-popOS!" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Pop_OS-Logo-nobg.svg/1599px-Pop_OS-Logo-nobg.svg.png">
   <img align="center" alt="Rafa-Windows" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
   </div>
- 
- 
   ##
 <div>  
 uma da Motwon pra você🎧
