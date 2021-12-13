@@ -1,5 +1,5 @@
 ### Heyyyy
-### I'm a Web Full Stack Developer but  a Junior Programmer 
+### I'm a Web Full Stack Developer but still a Junior Programmer 
 ### And I'm a brazilian guy 
 In love with Pop!_OS and I'm a Motown Records fan
 
