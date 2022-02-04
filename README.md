@@ -1,6 +1,6 @@
 # Heyyyy,How are you? My name is Rafael
 # I'm a brazilian guy 
-# And I'm a Junior Programmer, right now I'm focused in learning Data Science, Ruby and Javascript
+# And I'm a Junior Programmer, right now I'm focused on learning Data Science, Ruby and Javascript
  
 <b>About me: 
 ##
