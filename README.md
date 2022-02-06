@@ -27,7 +27,7 @@
   
   
 <div style="display: inline_block"><br>
-<b>IDEs:
+<b>IDEs and Shell:
   <img align="center" alt="Rafa-Atom" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg">
   <img align="center" alt="Rafa-Bash" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
   <img align="center" alt="Rafa-Vim" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg">
