@@ -1,6 +1,6 @@
 # Heyyyy,How are you? My name is Rafael
 # I'm a brazilian guy 
-# And I'm a Junior Programmer, right now I'm focused on learning Data Science, Ruby and Javascript
+# And I'm a Junior Programmer, right now I'm focused on learning Data Science and Ruby
  
 <b>About me: 
 ##
@@ -9,9 +9,7 @@
 <b> Studying:
   <img align="center" alt="Rafa-Ruby" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg">
    <img align="center" alt="Rafa-Rails" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg">
-  <img align="center" alt="Rafa-Javascript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Rafa-Mongo" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
-   <img align="center" alt="Rafa-Couchdb" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/couchdb/couchdb-original.svg" />
   <img align="center" alt="Rafa-AWS" height="120" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
   <img align="center" alt="Rafa-Markdown" heigth="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg">
 </div>
