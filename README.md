@@ -7,17 +7,16 @@
 
 <div style="display: inline_block"><br>
 <b> Studying:
-  <img align="center" alt="Rafa-Ruby" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg">
-   <img align="center" alt="Rafa-Rails" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg">
   <img align="center" alt="Rafa-Mongo" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="Rafa-AWS" height="120" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img align="center" alt="Rafa-Ruby" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg">
+   <img align="center" alt="Rafa-Rails" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg">
   <img align="center" alt="Rafa-Markdown" heigth="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg">
 </div>
  
   
 <div style="display: inline_block"><br>
   <b> Past Studies:
-  <img align="center" alt="Rafa-PHP" height="80" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Rafa-Fortran" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg"> 
   <img align="center" alt="Rafa-HTML" height="60" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
   <img align="center" alt="Rafa-CSS" height="60" widht="70"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
