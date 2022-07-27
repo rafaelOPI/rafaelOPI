@@ -1,34 +1,30 @@
 # Heyyyy,How are you? My name is Rafael
 # I'm a brazilian guy 
-# And I'm a Junior Programmer, right now I'm focused on learning Data Science and Ruby
+# now I'm focused on learning Fortran and Ruby
+# And I'm a Junior Programmer 
+
  
 <b>About me: 
 ##
 
 <div style="display: inline_block"><br>
 <b> Studying:
-  <img align="center" alt="Rafa-Mongo" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
-  <img align="center" alt="Rafa-AWS" height="120" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+   <img align="center" alt="Rafa-Fortran" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg">
   <img align="center" alt="Rafa-Ruby" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg">
-   <img align="center" alt="Rafa-Rails" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg">
-  <img align="center" alt="Rafa-Markdown" heigth="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg">
 </div>
  
   
 <div style="display: inline_block"><br>
   <b> Past Studies:
-  <img align="center" alt="Rafa-Fortran" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg"> 
   <img align="center" alt="Rafa-HTML" height="60" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
   <img align="center" alt="Rafa-CSS" height="60" widht="70"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
     </div>
   
   
 <div style="display: inline_block"><br>
-<b>IDEs and Shell:
+<b>IDEs:
   <img align="center" alt="Rafa-Atom" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg">
-  <img align="center" alt="Rafa-Bash" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
-  <img align="center" alt="Rafa-Vim" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg">
-  <img align="center" alt="Rafa-Code" height="50 widht="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Rafa-Vim" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"> 
   </div>
   
   
