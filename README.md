@@ -39,7 +39,7 @@
   
   # Contact me
   [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">](https://msng.link/o/?rafaelOPI=tg"/)
-  [<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">](mailto:rafael.o.peres@hotmail.com)
+  [<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">](mailto:rafael.o.peres@outlook.com)
     
 <div>
 just a Motown song for you
