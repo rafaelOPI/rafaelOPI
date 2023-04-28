@@ -35,10 +35,7 @@
   
   <div style="display: inline_block"><br>
   <b>my OS:<b>
-  <img align="center" alt="Rafa-popOS!" height="40" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Pop_OS-Logo-nobg.svg/1599px-Pop_OS-Logo-nobg.svg.png">
-  
-  <img img align="center" alt="Rafa-popOS!" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
-          
+  <img align="center" alt="Rafa-popOS!" height="40" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Pop_OS-Logo-nobg.svg/1599px-Pop_OS-Logo-nobg.svg.png">        
   </div>
   
   
