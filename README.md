@@ -1,7 +1,7 @@
 # Heyyyy,How are you? My name is Rafael
 # I'm a brazilian guy 
-# now I'm focused on learning Ruby Python and Mongodb
-# And I'm a Junior Programmer 
+# now I'm focused on learning Ruby, Python and Mongodb
+# And I am a Data Student and also a Junior Back-end Dev
 
  
 <b>About me: 
@@ -47,7 +47,11 @@
 just a Motown song for you
 (I'm a Motown fan)  
   
-https://user-images.githubusercontent.com/81370758/137535565-5bc13475-1d8c-490c-9f57-59ac69387933.mov 
+
+
+https://github.com/rafaelOPI/rafaelOPI/assets/81370758/3ea974e3-48d1-4106-811f-32f4a5eeacdc
+
+
   
   
 </div>
