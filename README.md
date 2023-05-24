@@ -1,7 +1,7 @@
 # Heyyyy,How are you? My name is Rafael
 # I'm a brazilian guy 
 # now I'm focused on learning Ruby, Python and Mongodb
-# I am a Data Student and also a Junior Back-end Dev
+# I am a Data Student and also a Back-end Junior Dev 
 
  
 <b>About me: 
