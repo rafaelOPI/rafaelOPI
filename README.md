@@ -44,12 +44,12 @@
   [<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">](mailto:rafael.o.peres@outlook.com)
     
 <div>
-just a Motown song for you
-(I'm a Motown fan)  
+just a Motown song for you  
   
+https://github.com/rafaelOPI/rafaelOPI/assets/81370758/cceda04e-1c77-4e5a-8955-1c59eb08a171
 
 
-https://github.com/rafaelOPI/rafaelOPI/assets/81370758/3ea974e3-48d1-4106-811f-32f4a5eeacdc
+
 
 
   
