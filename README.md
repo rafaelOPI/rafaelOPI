@@ -1,11 +1,20 @@
-# Heyyyy,How are you? My name is Rafael
-# I'm a brazilian guy 
-# now I'm focused on learning Ruby, Python and Mongodb
-# I am a Data Student and also a Back-end Junior Dev 
+### Heyyyy, How are you? My name is Rafael
+
 
  
-<b>About me: 
+<b>Social & About me:
 ##
+<div style="display: inline_block"><br>
+
+ [<img src="https://img.shields.io/twitter/follow/rafaeuopi">](https://twitter.com/rafaeuopi/)
+ </div>
+ 
+![image](https://github.com/rafaelOPI/rafaelOPI/assets/81370758/c05bd769-9c77-4cc5-9b3a-c338cb80d5c2)
+![image](https://github.com/rafaelOPI/rafaelOPI/assets/81370758/928c8b00-8171-4adf-922c-e77fe4ca4ccb)
+
+
+#
+
 
 <div style="display: inline_block"><br>
 <b> Studying:
@@ -39,22 +48,11 @@
   </div>
   
   
-  # Contact me
+  ### Contact me
+   [<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">](mailto:rafael.o.peres@outlook.com)
   [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">](https://msng.link/o/?rafaelOPI=tg"/)
-  [<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">](mailto:rafael.o.peres@outlook.com)
+
+
+ 
     
-<div>
-just a Motown song for you  
-  
-https://github.com/rafaelOPI/rafaelOPI/assets/81370758/cceda04e-1c77-4e5a-8955-1c59eb08a171
-
-
-
-
-
-  
-  
-</div>
-
-
 
