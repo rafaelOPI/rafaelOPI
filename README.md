@@ -31,7 +31,7 @@
   
 <div style="display: inline_block"><br>
 <b>IDEs:
-    <img align="center" alt="Rafa-Code" height="50 width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain.svg">
+    <img align="center" alt="Rafa-Code" height="50 width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Rafa-Vim" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"> 
   </div>
   
