@@ -2,34 +2,30 @@
 
 
  
-<b>Social & About me:
-##
-<div style="display: inline_block"><br>
+### Social & About me:
+ <a href="https://linkedin.com/in/rafaelopi" target="_blank">
+   <img align="center" alt="Rafael Oliveira Peres" | Linkedin" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+</a>
+<a href="https://twitter.com/rafaeuopi" target="_blank">
+   <img align="center" alt="Rafael Oliveira Peres" | Twitter" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
+</a>
 
- [<img src="https://img.shields.io/twitter/follow/rafaeuopi">](https://twitter.com/rafaeuopi/)
- </div>
  
 ![image](https://github.com/rafaelOPI/rafaelOPI/assets/81370758/c05bd769-9c77-4cc5-9b3a-c338cb80d5c2)
-![image](https://github.com/rafaelOPI/rafaelOPI/assets/81370758/928c8b00-8171-4adf-922c-e77fe4ca4ccb)
-
-
-#
-
-
 <div style="display: inline_block"><br>
 <b> Studying:
- <img align="center" alt="Rafa-Ruby" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg">
+ <img align="center" alt="Rafa-Ruby" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">
 <img align="center" alt="Rafa-Python" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-<img align="center" alt="Rafa-MongoDB" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
+<img align="center" alt="Rafa-MongoDB" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
  
 </div>
  
   
 <div style="display: inline_block"><br>
   <b> Past Studies:
-   <img align="center" alt="Rafa-Fortran" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg">
-  <img align="center" alt="Rafa-HTML" height="60" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
-  <img align="center" alt="Rafa-CSS" height="60" widht="70"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+   <img align="center" alt="Rafa-Fortran" height="60" width="50" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg">
+  <img align="center" alt="Rafa-HTML" height="60" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
+  <img align="center" alt="Rafa-CSS" height="60" widht="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
     </div>
   
   
