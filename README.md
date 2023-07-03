@@ -1,4 +1,4 @@
-### Heyyyy, How are you? My name is Rafael
+### Heyyyy, How are you? Welcome
 
 
  
@@ -10,10 +10,13 @@
    <img align="center" alt="Rafael Oliveira Peres" | Twitter" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
 </a>
 
- 
-![image](https://github.com/rafaelOPI/rafaelOPI/assets/81370758/c05bd769-9c77-4cc5-9b3a-c338cb80d5c2)
 <div style="display: inline_block"><br>
-<b> Studying:
+ 
+<div>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Veg🥦 &amp; Ⓐ--Luv my family &amp; Luv tea. Tweets about: Data, Ruby, Python. Supporting OKC Thunder, São Paulo &amp; NY Liberty. Born Pharrel Williams&#39; cover</p>&mdash; ཞαʄαҽʅ.rb 🫱🏼‍🫲🏾 (@rafaeuopi) <a href="https://twitter.com/rafaeuopi/status/1675839523102633985?ref_src=twsrc%5Etfw">July 3, 2023</a></blockquote>
+</div>
+ 
+ <b> Studying:
  <img align="center" alt="Rafa-Ruby" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">
 <img align="center" alt="Rafa-Python" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 <img align="center" alt="Rafa-MongoDB" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
