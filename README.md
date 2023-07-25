@@ -7,7 +7,7 @@
    <img align="center" alt="Rafael-Linkedin" | Linkedin" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
 <a href = "mailto:rafael.o.peres@outlook.com">
- <img align="center" alt="Rafael-Mail"| Mail" width="50px" src="https://th.bing.com/th/id/OIP.cGpqFq0ZNdbrXGzD40tAiAHaHa?pid=ImgDet&rs=1"_blank"></a>
+ <img align="center" alt="Rafael-Mail"| Mail" width="50px" src="https://th.bing.com/th/id/R.bb18bdbbef437b2d50518db5a8292c94?rik=cOvK7ERpnbu3Tw&riu=http%3a%2f%2fpluspng.com%2fimg-png%2femail-icon-png-download-icons-logos-emojis-email-icons-2400.png&ehk=VQKlzNVcrMc2tLSKYacLzJ9XD4bCkYGXtMrARdqSBKQ%3d&risl=&pid=ImgRaw&r=0"></a>
 </a>
 <a href="https://lintr.ee/rafaelopi" target="_blank">
    <img align="center" alt="Rafael-Linktree" | Linktree" width="30px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linktree-logo-icon.png" />
