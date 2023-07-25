@@ -2,13 +2,15 @@
 
 
  
-### Social & Contact:
+### Contact & Links:
  <a href="https://linkedin.com/in/rafaelopi" target="_blank">
    <img align="center" alt="Rafael-Linkedin" | Linkedin" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
 <a href = "mailto:rafael.o.peres@outlook.com">
  <img align="center" alt="Rafael-Mail"| Mail" width="50px" src="https://th.bing.com/th/id/OIP.cGpqFq0ZNdbrXGzD40tAiAHaHa?pid=ImgDet&rs=1"_blank"></a>
 </a>
+<a href="https://lintr.ee/rafaelopi" target="_blank">
+   <img align="center" alt="Rafael-Linktree" | Linktree" width="30px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linktree-logo-icon.png" />
 
 ##
 
@@ -44,11 +46,8 @@
   <b>my OS:<b>
   <img align="center" alt="Rafa-popOS!" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Pop_OS-Logo-nobg.svg/1599px-Pop_OS-Logo-nobg.svg.png" />        
   </div>
+ 
   
-  
-  ### My Linktree
-  <a href="https://lintr.ee/rafaelopi" target="_blank">
-   <img align="center" alt="Rafael-Linktree" | Linktree" width="70px" src="https://www.pushbio.io/wp-content/uploads/2022/11/linktree.png" />
   
 
 
