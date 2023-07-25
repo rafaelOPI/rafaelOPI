@@ -10,7 +10,8 @@
  <img align="center" alt="Rafael-Mail"| Mail" width="50px" src="https://th.bing.com/th/id/R.bb18bdbbef437b2d50518db5a8292c94?rik=cOvK7ERpnbu3Tw&riu=http%3a%2f%2fpluspng.com%2fimg-png%2femail-icon-png-download-icons-logos-emojis-email-icons-2400.png&ehk=VQKlzNVcrMc2tLSKYacLzJ9XD4bCkYGXtMrARdqSBKQ%3d&risl=&pid=ImgRaw&r=0"></a>
 </a>
 <a href="https://lintr.ee/rafaelopi" target="_blank">
-   <img align="center" alt="Rafael-Linktree" | Linktree" width="30px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linktree-logo-icon.png" />
+   <img align="center" alt="Rafael-Linktree" | Linktree" width="30px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linktree-logo-icon.png"></a>
+</a>
 
 ##
 
