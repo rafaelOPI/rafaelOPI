@@ -17,8 +17,8 @@
 
  
  <b> Studying:
- <img align="center" alt="Rafa-Ruby" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
-<img align="center" alt="Rafa-Rails" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" />
+ <img align="center" alt="Rafa-Ruby" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
+<img align="center" alt="Rafa-Rails" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" />
 <img align="center" alt="Rafa-Google" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
  
 </div>
@@ -35,9 +35,9 @@
   
 <div style="display: inline_block"><br>
 <b>IDEs:
-  <img align="center" alt="Rafa-Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-   <img align="center" alt="Rafa-Mine" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rubymine/rubymine-original.svg" />
-  <img align="center" alt="Rafa-Vim" height="40" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" /> 
+  <img align="center" alt="Rafa-Code" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+   <img align="center" alt="Rafa-Mine" height="40" width="40" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/rubymine-icon.png" />
+  <img align="center" alt="Rafa-Vim" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" /> 
   </div>
   
   
